@@ -1,0 +1,11 @@
+{
+  "license": "MPL-2.0",
+  "name": "fast-download",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:wangpengfeido/fast-download.git",
+  "author": "wangpengfeido <wangpengfeido@126.com>",
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}
